@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vih4an.github.io/opentalk-name-changer/sitemap.xml
